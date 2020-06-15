@@ -1,0 +1,178 @@
+header {
+    background-image: url("/cv/cv12.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -1rem;
+    margin-left: -1rem;
+    height: 60vh;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 3rem;
+    color: white;
+}
+
+header p {
+    text-align: center;
+    padding-top: 1.5rem;
+    font-size: 2rem;
+    color: grey;
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 60%;
+}
+ul li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: grey;
+    font-size: 1.4rem;
+}
+.bloc-photo img {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 10px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.bloc-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h2, p {
+    text-align: center;
+    color: dimgrey;
+    font-size: 1.3rem;
+}
+h2 {
+    font-size: 1.7rem;
+}
+.icones img {
+    width: 5rem;
+    height: 6rem;
+    padding-top: 0.5rem;
+}
+.icones {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.icones img:nth-child(2) {
+    height: 4.5rem;
+    margin-top: 1rem;
+}
+.icones img:nth-child(4) {
+    height: 5rem;
+    padding-top: 1.2rem;
+}
+.icones img:nth-child(7) {
+    height: 4.5rem;
+    padding-top: 1rem;
+}
+.icones img:nth-child(9) {
+    height: 4.5rem;
+}
+.bloc-propos, .bloc-recherche, .bloc-competences, .bloc-projets {
+    margin-top: 2rem;
+}
+.image-projet {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.photo4 {
+    margin-right: 3rem;
+}
+.image-projet img {
+    width: 20rem;
+    margin-top: 1rem;
+    border-radius: 15px;
+}
+h3 {
+    text-align: center;
+    color: dimgrey;
+    font-size: 1.4rem;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+h4 {
+    text-align: center;
+    color: dimgrey;
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.2rem;
+}
+.contact img {
+    width: 6rem;
+    height: 6rem;
+}
+.photo1 {
+    text-align: center;
+}
+.photo2 {
+    text-align: center;
+}
+.photo3 {
+    text-align: center;
+}
+.photo4 {
+    text-align: center;
+    margin-right: 0px;
+}
+.bloc-projets a img:hover {
+    filter: opacity(50%);
+}
+
+@media only screen and (min-width: 768px) {
+    header {
+        background-image: url("/cv/cv12.jpg");
+        background-size: cover;
+        width: 100%;
+    }
+    h2 {
+        margin-top: 4rem;
+    }
+    .bloc-photo img {
+        width: 15rem;
+        height: 15rem;
+    }
+    .bloc-photo {
+        margin-top: 3rem;
+    }
+    .image-projet {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .photo1 {
+        width: 35rem;
+    }
+    .photo2 {
+        width: 35rem;
+    }
+    .photo3 {
+        width: 35rem;
+    }
+    .photo4 {
+        width: 35rem;
+    }
+
+}
