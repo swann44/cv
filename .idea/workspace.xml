@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f2cbfd2-daf7-4259-928a-5a7ae6a0b4d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CV3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +74,7 @@
       <workItem from="1591361136995" duration="1357000" />
       <workItem from="1592255078698" duration="578000" />
       <workItem from="1592255695276" duration="1085000" />
+      <workItem from="1592323737044" duration="1222000" />
     </task>
     <servers />
   </component>
