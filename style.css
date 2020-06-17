@@ -1,3 +1,11 @@
+
+
+* {
+    font-family: 'Lexend Tera', sans-serif
+
+}
+
+
 header {
     background-image: url("cv12.jpg");
     background-size: cover;
@@ -62,7 +70,7 @@ h2 {
 }
 .icones img {
     width: 5rem;
-    height: 6rem;
+    height: 5rem;
     padding-top: 0.5rem;
 }
 .icones {
@@ -71,7 +79,11 @@ h2 {
     justify-content: space-around;
     flex-wrap: wrap;
 }
-.icones img:nth-child(2) {
+.icones img:nth-child(1) {
+    width: 10rem;
+    height: 5rem;
+}
+/*.icones img:nth-child(2) {
     height: 4.5rem;
     margin-top: 1rem;
 }
@@ -85,7 +97,7 @@ h2 {
 }
 .icones img:nth-child(9) {
     height: 4.5rem;
-}
+}*/
 .bloc-propos, .bloc-recherche, .bloc-competences, .bloc-projets {
     margin-top: 2rem;
 }
