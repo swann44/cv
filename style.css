@@ -22,6 +22,9 @@ h1 {
     color: white;
     text-shadow: 2px 2px 2px;
 }
+h2 {
+    margin-bottom: 3rem;
+}
 
 header p {
     text-align: center;
@@ -81,43 +84,56 @@ h2 {
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
+    margin-top: 2rem;
 }
-.icones img:nth-child(6) {
+.icones img:nth-child(7) {
     width: 10rem;
     height: 5rem;
 }
-/*.icones img:nth-child(2) {
-    height: 4.5rem;
-    margin-top: 1rem;
-}
-.icones img:nth-child(4) {
-    height: 5rem;
-    padding-top: 1.2rem;
-}
-.icones img:nth-child(7) {
-    height: 4.5rem;
-    padding-top: 1rem;
-}
-.icones img:nth-child(9) {
-    height: 4.5rem;
-}*/
 .bloc-propos, .bloc-recherche, .bloc-competences, .bloc-projets {
     margin-top: 2rem;
-}
-.image-projet {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
 }
-.photo4 {
-    margin-right: 3rem;
+.bloc-propos, .bloc-recherche, .bloc-competences, .bloc-projets p {
+    width: 80%;
 }
+.image-projet, .experiences, .formations {
+    width: 80%;
+}
+
+.projet1, .projet2, .projet3, .projet4, .projet5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-top: 2px solid gainsboro;
+}
+.projet5 {
+    border-bottom: 2px solid gainsboro;
+}
+
+.photo2, .textePhoto3, .textePhoto4, .textePhoto5, .textePhoto6 {
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image-projet {
+    margin-top: 2rem;
+}
+
 .image-projet img {
     width: 20rem;
+    height: 15rem;
     margin-top: 1rem;
     border-radius: 15px;
+}
+em {
+    font-weight: bold;
 }
 h3 {
     text-align: center;
@@ -137,19 +153,8 @@ h4 {
     width: 6rem;
     height: 6rem;
 }
-.photo1 {
-    text-align: center;
-}
-.photo2 {
-    text-align: center;
-}
-.photo3 {
-    text-align: center;
-}
-.photo4 {
-    text-align: center;
-    margin-right: 0px;
-}
+
+
 .bloc-projets a img:hover {
     filter: opacity(50%);
 }
@@ -181,17 +186,29 @@ h4 {
         align-items: center;
         flex-wrap: wrap;
     }
-    .photo1 {
+    .photo1, .photo2, .photo3, .photo4, .photo5, .photo6{
         width: 35rem;
     }
-    .photo2 {
+    .projet1, .projet2, .projet3, .projet4, .projet5 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        border-top: 2px solid gainsboro;
+        width: 80rem;
+    }
+    .image-projet img {
+        width: 25rem;
+        height: 15rem;
+        margin-top: 1rem;
+        border-radius: 15px;
+    }
+    .photo2, .textePhoto3, .textePhoto4, .textePhoto5, .textePhoto6 {
         width: 35rem;
     }
-    .photo3 {
-        width: 35rem;
+    .projet5 {
+        border-bottom: 2px solid gainsboro;
+        padding-bottom: 3rem;
+        padding-top: 2rem;
     }
-    .photo4 {
-        width: 35rem;
-    }
-
 }
