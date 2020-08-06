@@ -186,10 +186,10 @@ h4 {
         align-items: center;
         flex-wrap: wrap;
     }
-    .photo1, .photo2, .photo3, .photo4, .photo5, .photo6{
+    .photo1, .photo2, .photo3, .photo4, .photo5, .photo6, .photo0Bis{
         width: 35rem;
     }
-    .projet1, .projet2, .projet3, .projet4, .projet5 {
+    .projet1, .projet2, .projet3, .projet4, .projet5, .projet0 {
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -203,7 +203,7 @@ h4 {
         margin-top: 1rem;
         border-radius: 15px;
     }
-    .photo2, .textePhoto3, .textePhoto4, .textePhoto5, .textePhoto6 {
+    .photo2, .textePhoto3, .textePhoto4, .textePhoto5, .textePhoto6, .photo0Bis {
         width: 35rem;
     }
     .projet5 {
