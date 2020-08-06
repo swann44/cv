@@ -104,7 +104,7 @@ h2 {
     width: 80%;
 }
 
-.projet1, .projet2, .projet3, .projet4, .projet5 {
+.projet1, .projet2, .projet3, .projet4, .projet5, .projet0 {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -115,7 +115,7 @@ h2 {
     border-bottom: 2px solid gainsboro;
 }
 
-.photo2, .textePhoto3, .textePhoto4, .textePhoto5, .textePhoto6 {
+.photo2, .textePhoto3, .textePhoto4, .textePhoto5, .textePhoto6, .photo0Bis {
     width: 25rem;
     display: flex;
     flex-direction: column;
