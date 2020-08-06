@@ -90,6 +90,18 @@ h2 {
     width: 10rem;
     height: 5rem;
 }
+
+.icones img:nth-child(8) {
+    margin-left: 0.5rem;
+}
+
+.icones img:nth-child(5) {
+    margin-left: 0.5rem;
+}
+
+.icones img:nth-child(6) {
+    margin-left: 0.5rem;
+}
 .bloc-propos, .bloc-recherche, .bloc-competences, .bloc-projets {
     margin-top: 2rem;
     display: flex;
