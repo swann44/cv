@@ -329,6 +329,8 @@ h4 {
         border-right: 2px solid gainsboro;
         border-left: 2px solid gainsboro;
         padding: 1rem;
+        border-top: none;
+        border-bottom: none;
     }
     h2 {
         margin-top: 8rem;
