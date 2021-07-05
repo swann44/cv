@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f2cbfd2-daf7-4259-928a-5a7ae6a0b4d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/intelliJ.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linux.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -24,6 +22,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1cDcGkcNunJM8oAa0sXLkitKkXx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projet_perso/cv_allyzee" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -109,7 +115,16 @@
       <workItem from="1596551310271" duration="652000" />
       <workItem from="1596574034572" duration="44000" />
       <workItem from="1596574221993" duration="88000" />
-      <workItem from="1596699875144" duration="6065000" />
+      <workItem from="1596699875144" duration="6766000" />
+      <workItem from="1598882444468" duration="4000" />
+      <workItem from="1617008833800" duration="3847000" />
+      <workItem from="1617021984837" duration="17000" />
+      <workItem from="1617023961774" duration="699000" />
+      <workItem from="1617712449062" duration="49000" />
+      <workItem from="1617714190399" duration="961000" />
+      <workItem from="1617715438972" duration="4763000" />
+      <workItem from="1617876768642" duration="601000" />
+      <workItem from="1625476692525" duration="11089000" />
     </task>
     <servers />
   </component>
@@ -118,23 +133,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="757" y="336" width="467" height="442" key="#Web_Browsers" timestamp="1596574256326">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state x="757" y="336" width="467" height="442" key="#Web_Browsers/72.27.1848.1053@72.27.1848.1053" timestamp="1596574256326" />
-    <state x="753" y="338" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590245619767">
-      <screen x="67" y="27" width="1533" height="873" />
-    </state>
-    <state x="753" y="338" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1590245619767" />
-    <state x="67" y="55" width="1024" height="845" key="SettingsEditor" timestamp="1590245680476">
-      <screen x="67" y="27" width="1533" height="873" />
-    </state>
-    <state x="67" y="55" width="1024" height="845" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1590245680476" />
-    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1594065335292">
-      <screen x="67" y="27" width="1533" height="873" />
-    </state>
-    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1594065335292" />
   </component>
 </project>
