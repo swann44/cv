@@ -17,7 +17,7 @@ header {
 
 h1 {
     text-align: center;
-    padding-top: 7rem;
+    padding-top: 5rem;
     font-size: 3rem;
     color: white;
     text-shadow: 2px 2px 2px;
@@ -250,6 +250,9 @@ h4 {
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+    h1 {
+        padding-top: 7rem;
     }
     h2 {
         margin-top: 4rem;
